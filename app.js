@@ -51,11 +51,3 @@ submit.onclick = (e) => {
 
 	return (output.innerHTML = bilangan + ' bukan bilangan sempurna.');
 };
-
-// bilangan = 28;
-// if (perfectNumber(bilangan)) {
-// 	console.log(bilangan + ' adalah bilangan sempurna.');
-// 	console.log(perfectNumber(bilangan));
-// } else {
-// 	console.log(bilangan + ' bukan bilangan sempurna.');
-// }
